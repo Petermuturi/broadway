@@ -6,5 +6,9 @@ ol li{
 }
 
 div.container{
-	background-image: url("bg.jpg")
+	background-image: url("bg.jpg");
+	text-align: center;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
