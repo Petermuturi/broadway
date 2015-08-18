@@ -4,3 +4,7 @@ ol li{
 	list-style: none;
 	background-color: #544848;
 }
+
+div.container{
+	background-image: url("bg.jpg")
+}
